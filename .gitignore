@@ -1,0 +1,3 @@
+# Project exclude paths
+/themes/custom/star/node_modules/
+/themes/custom/star/node_modules/karma/config.tpl.js
